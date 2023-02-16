@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @whoisrobinjha
-- 👀 I’m interested in data science, software developement and DevOps
-- 🌱 I’m currently learning python, MySQL, Java, tools for DevOps practices
+- 👀 I’m interested in software developement and DevOps
+- 🌱 I’m currently learning python, MySQL, Java, DevOps tools and their best practices
 - 💞️ I’m looking to collaborate on python projects and devops projects
 - 📫 How to reach me e-mail me on robinjha370@gmail.com
 
