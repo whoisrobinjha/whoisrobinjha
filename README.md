@@ -1,62 +1,55 @@
-# Robin Jha
+<!-- Heading -->
+<h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /> Hi there! I'm Robin Jha</h3>
 
-[![Email](https://img.shields.io/badge/Email-robinjha370%40gmail.com-red)](mailto:robinjha370@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-robin--jha-blue)](https://www.linkedin.com/in/robin-jha)
-[![GitHub](https://img.shields.io/badge/GitHub-whoisrobinjha-black)](https://github.com/whoisrobinjha)
-[![Blog](https://img.shields.io/badge/Blog-whoisrobinjha.hashnode.dev-green)](https://whoisrobinjha.hashnode.dev)
-[![LeetCode](https://img.shields.io/badge/LeetCode-whoisrobinjha-yellow)](https://leetcode.com/whoisrobinjha)
+<!-- Profile Views -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=whoisrobinjha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-## About Me
+<p align="center">
+  <a href="https://whoisrobinjha.hashnode.dev">Blog</a> •
+  <a href="https://www.linkedin.com/in/robin-jha">LinkedIn</a> •
+  <a href="https://leetcode.com/whoisrobinjha">LeetCode</a>
+</p>
 
-Cloud Operations Engineer with 2.5+ years of experience designing, implementing, and troubleshooting cloud-based solutions for enterprise clients. I have a deep passion for DevOps and Artificial Intelligence, continuously seeking to learn and grow in these fields. 
+<!-- About Section -->
+---
+✨ I'm a Cloud Operations Engineer with 2.5+ years of experience in designing, implementing, and troubleshooting cloud-based solutions for enterprise clients. My expertise spans across Google Cloud Platform (GCP), Oracle Cloud Platform (OCP), and container orchestration with Docker and Kubernetes. I am passionate about DevOps, AI, and automation.
 
-## Certifications
+I enjoy crafting robust cloud solutions and exploring new technologies. When I'm not working, I dive into Python programming, contribute to open-source projects, and tackle challenging coding problems on LeetCode.
 
-- **Google Cloud Associate Cloud Engineer** (July 2024)
-- **Oracle Cloud Infrastructure Foundations Associate** (July 2023)
-- **Containers and Kubernetes Essentials** (Docker, Kubernetes, and OpenShift) from IBM (Dec 2022)
-- **Continuous Integration and Continuous Delivery** from IBM (Jan 2023)
+<!-- Skills -->
+- 🔧 **Languages & Technologies**: Python, Java, JavaScript, C++, Docker, Kubernetes
+- ☁️ **Cloud Platforms**: Google Cloud Platform (GCP), Oracle Cloud Platform (OCP)
+- 🔧 **DevOps Tools**: Terraform, Ansible, CI/CD
+- 🖥️ **Operating Systems**: Linux (RHEL/Debian/Ubuntu), Windows Server
 
-## Skills
+<!-- Connect Section -->
+<h2>Connect with me</h2>
+<p>
+  <a href="https://www.linkedin.com/in/robin-jha"><img src="https://img.shields.io/badge/-Robin%20Jha-blue?style=plastic&labelColor=blue&logo=LinkedIn" alt="LinkedIn Badge"></a>
+  <a href="https://twitter.com/whoisrobinjha"><img src="https://img.shields.io/badge/-@whoisrobinjha-00acee?style=plastic&logo=Twitter" alt="Twitter Badge"></a>
+  <a href="https://whoisrobinjha.hashnode.dev"><img src="https://img.shields.io/badge/-Blog-black?style=plastic&logo=Hashnode" alt="Blog Badge"></a>
+</p>
 
-- **Cloud Platforms**: Google Cloud Platform (GCP), Oracle Cloud Platform (OCP)
-- **Containerization and Orchestration**: Docker, Kubernetes
-- **Operating Systems**: Linux (RHEL/Debian/Ubuntu), Windows Server
-- **CI/CD**: Continuous Integration/Continuous Delivery
-- **Programming Languages**: Python (Scripting and API Development), Java, JavaScript, C++
-- **Infrastructure as Code**: Terraform, Ansible
+<!-- GitHub Stats -->
+<h2>My GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px" /></h2>
+<div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whoisrobinjha" alt="Robin's Streak Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whoisrobinjha&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Robin's Language Stats" height="192px" width="500px"/>
+</div>
 
-## Work Experience
+<!-- Expandable Sections -->
+<details>
+  <summary><b>:zap: GitHub Profile Stats</b></summary>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=whoisrobinjha&show_icons=true" />
+</details>
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+  <a href="https://github.com/whoisrobinjha/"><img alt="Robin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=whoisrobinjha&custom_title=Robin's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+</details>
 
-### Cloud Operations Engineer
-**Vista Information Systems Pvt. Ltd.**, New Delhi, India (Nov 2021 - Present)
-
-- Designed and developed 20+ cloud solutions using GCE, GKE, Cloud Load Balancer, VPC, Cloud SQL, Cloud Storage, and Cloud DNS, resulting in a 25% increase in efficiency.
-- Configured Auto Scaling, Cloud Monitoring alarms, and Cloud Pub/Sub to enhance infrastructure scalability and monitoring, reducing downtime by 20%.
-- Contributed to over 15 projects using services like Cloud DNS, Deployment Manager, App Engine, and IAM.
-- Launched over 50 Google Cloud instances and configured them for specific applications, including storage setups with Cloud Storage buckets.
-- Built servers using Google Cloud, importing volumes, launching instances, creating security groups, and configuring auto-scaling and load balancers.
-- Created monitors, alarms, and notifications for GCE instances using Cloud Monitoring, and set up private networks and sub-networks using VPC.
-
-## Projects
-
-- **Google Cloud Platform Configuration**: Configured GCP with 5+ subnets, 3+ VMs, and 2 gateways for improved governance and efficiency.
-- **Application Deployment**: Deployed 5+ applications utilizing resources such as App Engine, Compute Engine, Cloud SQL, Cloud Firestore, BigQuery, VPCs, Subnets, Cloud DNS, Cloud Run, and Cloud Storage.
-- **Budget Alerting Policies**: Created budget alerting policies for development projects to ensure cost efficiency.
-
-## Education
-
-**B. Tech in Electrical & Electronics Engineering (EEE)**
-Guru Gobind Singh Indraprastha University, Delhi, India (2015–2019)
-- Aggregate CGPA: 6.83
-
-## Get in Touch
-
-Feel free to reach out via [email](mailto:robinjha370@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/robin-jha) for opportunities or collaboration!
-
-
-
-<!---
-whoisrobinjha/whoisrobinjha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Fun Fact -->
+<p align="center">
+  ⚡ **Fun fact**: I enjoy solving complex problems and building scalable solutions. In my spare time, I love exploring new technologies and contributing to the open-source community.
+</p>
