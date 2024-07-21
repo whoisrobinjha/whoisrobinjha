@@ -12,13 +12,13 @@
 
 <!-- About Section -->
 ---
-✨ I'm a Cloud Operations Engineer with 2.5+ years of experience in designing, implementing, and troubleshooting cloud-based solutions for enterprise clients. My expertise spans across Google Cloud Platform (GCP), Oracle Cloud Platform (OCP), and container orchestration with Docker and Kubernetes. I am passionate about DevOps, AI, and automation.
+✨ I'm a Cloud Operations Engineer with 2.5+ years of experience in designing, implementing, and troubleshooting cloud-based solutions for enterprise clients. My expertise spans across Google Cloud Platform (GCP), Oracle Cloud Platform, and container orchestration with Docker and Kubernetes. I am passionate about DevOps, AI, and automation.
 
 I enjoy crafting robust cloud solutions and exploring new technologies. When I'm not working, I dive into Python programming, contribute to open-source projects, and tackle challenging coding problems on LeetCode.
 
 <!-- Skills -->
 - 🔧 **Languages & Technologies**: Python, Java, JavaScript, C++, Docker, Kubernetes
-- ☁️ **Cloud Platforms**: Google Cloud Platform (GCP), Oracle Cloud Platform (OCP)
+- ☁️ **Cloud Platforms**: Google Cloud Platform (GCP), Oracle Cloud
 - 🔧 **DevOps Tools**: Terraform, Ansible, CI/CD
 - 🖥️ **Operating Systems**: Linux (RHEL/Debian/Ubuntu), Windows Server
 
